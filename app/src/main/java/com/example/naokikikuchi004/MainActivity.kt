@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         num = 50
         Log.d("kotlintest" , num.toString())
+
+        
     }
 }
